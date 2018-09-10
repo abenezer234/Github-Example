@@ -12,6 +12,7 @@
 		2D9D971921430619002EC73B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D9D971721430619002EC73B /* Main.storyboard */; };
 		2D9D971B2143061A002EC73B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D9D971A2143061A002EC73B /* Assets.xcassets */; };
 		2D9D971E2143061A002EC73B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D9D971C2143061A002EC73B /* LaunchScreen.storyboard */; };
+		2DC78CBA214711CD00CBE6DB /* Imgur-8801b2-1-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DC78CB9214711CD00CBE6DB /* Imgur-8801b2-1-3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2D9D971A2143061A002EC73B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D9D971D2143061A002EC73B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2D9D971F2143061A002EC73B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2DC78CB9214711CD00CBE6DB /* Imgur-8801b2-1-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Imgur-8801b2-1-3.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				2D9D971A2143061A002EC73B /* Assets.xcassets */,
 				2D9D971C2143061A002EC73B /* LaunchScreen.storyboard */,
 				2D9D971F2143061A002EC73B /* Info.plist */,
+				2DC78CB9214711CD00CBE6DB /* Imgur-8801b2-1-3.png */,
 			);
 			path = "Github Example";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 				2D9D971E2143061A002EC73B /* LaunchScreen.storyboard in Resources */,
 				2D9D971B2143061A002EC73B /* Assets.xcassets in Resources */,
 				2D9D971921430619002EC73B /* Main.storyboard in Resources */,
+				2DC78CBA214711CD00CBE6DB /* Imgur-8801b2-1-3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
